@@ -1,3 +1,6 @@
+* {
+    background-color: #EE2F2A;
+}
 body {
     background-color: #EE2F2A;
     background-repeat: no-repeat;
@@ -152,4 +155,5 @@ div.icon-att a {
     div.title-img img {
         border-radius: 10px;
     }
+
 }
