@@ -1,0 +1,6 @@
+<html>
+<script>
+  console.log(window.location.hostname)
+  console.log(window.location.href)
+</script>
+</html>
